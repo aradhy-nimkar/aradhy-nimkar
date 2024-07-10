@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center" width = "300px">
 ![19362653](https://github.com/aradhy-nimkar/aradhy-nimkar/assets/175198698/54a0179d-fbf9-48f9-9e2e-d7f50650d451)
 </div>
 
